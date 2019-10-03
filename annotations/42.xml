@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imagess</folder>
+	<filename>42.jpg</filename>
+	<path>/home/asmar/Desktop/imagess/42.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2400</width>
+		<height>3328</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pepsi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>408</xmin>
+			<ymin>44</ymin>
+			<xmax>2116</xmax>
+			<ymax>3198</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>imagess</folder>
+	<filename>100.jpg</filename>
+	<path>/home/asmar/Desktop/imagess/100.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>310</width>
+		<height>436</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>coke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>19</ymin>
+			<xmax>252</xmax>
+			<ymax>421</ymax>
+		</bndbox>
+	</object>
+</annotation>
